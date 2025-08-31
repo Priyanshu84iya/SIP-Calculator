@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![SIP Calculator Logo](https://via.placeholder.com/200x200/2563eb/ffffff?text=SIP+CALC)
-
 ### 🚀 Calculate your Systematic Investment Plan returns with precision
 
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/Priyanshu84iya)
@@ -22,13 +20,6 @@
 ## 🎯 **Overview**
 
 A modern, feature-rich **Systematic Investment Plan (SIP) Calculator** that helps investors calculate their investment returns with precision. Built with vanilla JavaScript, featuring a beautiful responsive UI with dark/light mode support, interactive charts, and comprehensive investment planning tools.
-
-<div align="center">
-
-![Demo GIF](https://via.placeholder.com/800x400/f8fafc/2563eb?text=🎬+ANIMATED+DEMO+GIF+HERE)
-*Demo of the SIP Calculator in action*
-
-</div>
 
 ---
 
@@ -64,23 +55,9 @@ A modern, feature-rich **Systematic Investment Plan (SIP) Calculator** that help
 
 ---
 
-## 🎬 **Screenshots**
+## 🎬 **Key Features Overview**
 
-<div align="center">
-
-### Light Mode
-![Light Mode](https://via.placeholder.com/400x300/ffffff/2563eb?text=💡+Light+Mode)
-
-### Dark Mode  
-![Dark Mode](https://via.placeholder.com/400x300/0f172a/3b82f6?text=🌙+Dark+Mode)
-
-### Charts & Analytics
-![Charts](https://via.placeholder.com/400x300/f8fafc/10b981?text=📊+Charts+%26+Analytics)
-
-### Mobile Responsive
-![Mobile](https://via.placeholder.com/200x400/2563eb/ffffff?text=📱+Mobile+View)
-
-</div>
+The SIP Calculator provides comprehensive investment planning tools with an intuitive interface and accurate calculations.
 
 ---
 
@@ -360,7 +337,8 @@ copies or substantial portions of the Software.
 ## 📞 **Support**
 
 ### Need Help?
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+- 📧 **Email**: [priyanshukawaii@gmail.com](mailto:priyanshukawaii@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Priyanshu84iya/sip-calculator/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Priyanshu84iya/sip-calculator/discussions)
 
