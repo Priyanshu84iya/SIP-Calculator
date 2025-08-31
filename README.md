@@ -11,7 +11,7 @@
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-green.svg)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-[🌐 Live Demo](https://priyanshu84iya.github.io/sip-calculator) | [📖 Documentation](#documentation) | [🚀 Features](#features) | [💻 Installation](#installation)
+[🌐 Live Demo](https://priyanshu84iya.github.io/SIP-Calculator/) | [📖 Documentation](#documentation) | [🚀 Features](#features) | [💻 Installation](#installation)
 
 </div>
 
@@ -97,17 +97,17 @@ Maturity Amount = ₹12,766 approximately
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/Priyanshu84iya/sip-calculator.git
+git clone https://github.com/Priyanshu84iya/SIP-Calculator.git
 
 # Navigate to project directory
-cd sip-calculator
+cd SIP-Calculator
 
 # Open in browser
 open index.html
 ```
 
 ### Or Download
-1. [📥 Download ZIP](https://github.com/Priyanshu84iya/sip-calculator/archive/main.zip)
+1. [📥 Download ZIP](https://github.com/Priyanshu84iya/SIP-Calculator/archive/main.zip)
 2. Extract the files
 3. Open `index.html` in your browser
 
@@ -246,8 +246,8 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/sip-calculator.git
-cd sip-calculator
+git clone https://github.com/yourusername/SIP-Calculator.git
+cd SIP-Calculator
 
 # Create feature branch
 git checkout -b feature/new-feature
@@ -339,8 +339,8 @@ copies or substantial portions of the Software.
 ### Need Help?
 
 - 📧 **Email**: [priyanshukawaii@gmail.com](mailto:priyanshukawaii@gmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/Priyanshu84iya/sip-calculator/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/Priyanshu84iya/sip-calculator/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Priyanshu84iya/SIP-Calculator/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Priyanshu84iya/SIP-Calculator/discussions)
 
 ### Found a Bug?
 Please create an issue with:
@@ -355,13 +355,13 @@ Please create an issue with:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/Priyanshu84iya/sip-calculator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Priyanshu84iya/sip-calculator?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Priyanshu84iya/sip-calculator?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Priyanshu84iya/SIP-Calculator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Priyanshu84iya/SIP-Calculator?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Priyanshu84iya/SIP-Calculator?style=social)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshu84iya/sip-calculator)
-![GitHub language count](https://img.shields.io/github/languages/count/Priyanshu84iya/sip-calculator)
-![GitHub top language](https://img.shields.io/github/languages/top/Priyanshu84iya/sip-calculator)
+![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshu84iya/SIP-Calculator)
+![GitHub language count](https://img.shields.io/github/languages/count/Priyanshu84iya/SIP-Calculator)
+![GitHub top language](https://img.shields.io/github/languages/top/Priyanshu84iya/SIP-Calculator)
 
 </div>
 
